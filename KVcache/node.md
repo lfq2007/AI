@@ -8,4 +8,6 @@ llama-2-70b: 140GB文件（主要是parameters和很少的run.c），700亿参�
 #### Transformer架构
 见transformer笔记
 
-
+补充：
+![alt text](image.png)
+矩阵相乘代表相似度
